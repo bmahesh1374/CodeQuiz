@@ -109,7 +109,7 @@ const database = {
                 a: "Uncaught SyntaxError: Identifier 'msg' has already been declared",
                 b: "Hi",
                 c: "Hello",
-                d: "HlloHi"
+                d: "HelloHi"
             },
             correctAnswer: "a"
         },
